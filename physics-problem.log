@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  27 FEB 2025 19:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  27 FEB 2025 20:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -134,6 +134,10 @@ File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/graphics/ma
 thcolor.ltx))
+(/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/gensymb/gen
+symb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/hyperref/hy
 perref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
@@ -693,24 +697,24 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 ) (./physics-problem.aux)
 \openout1 = `physics-problem.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/context/base/mkii
 /supp-pdf.mkii
@@ -747,8 +751,20 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 20.
- (./physics-problem.out) (./physics-problem.out)
+LaTeX Info: Redefining \celsius on input line 21.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 21.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 21.
+Package gensymb Info: Using \Omega for \ohm on input line 21.
+
+Package gensymb Warning: Not defining \micro.
+
+Package hyperref Info: Link coloring OFF on input line 21.
+(./physics-problem.out) (./physics-problem.out)
 \@outlinefile=\write4
 \openout4 = `physics-problem.out'.
 
@@ -787,14 +803,14 @@ Package hyperref Info: Link coloring OFF on input line 20.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
 
 
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/amsfonts/um
 sa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
 
 
 (/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/tex/latex/amsfonts/um
@@ -804,33 +820,41 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 LaTeX Warning: No \author given.
 
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 28.
 [1
 
 {/opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/map/pdftex/updm
-ap/pdftex.map}] (./physics-problem.aux)
+ap/pdftex.map}] [2] (./physics-problem.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `physics-problem.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: C765D8086C319FB6F114DB0EF985395F;923.
  ) 
 Here is how much of TeX's memory you used:
- 20716 strings out of 474116
- 388523 string characters out of 5732612
- 1927187 words of memory out of 5000000
- 42739 multiletter control sequences out of 15000+600000
- 563417 words of font info for 57 fonts, out of 8000000 for 9000
+ 20857 strings out of 474116
+ 391221 string characters out of 5732612
+ 1938187 words of memory out of 5000000
+ 42868 multiletter control sequences out of 15000+600000
+ 566556 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,107p,417b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,430b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/homebrew/Cellar/texlive/2024031
-2_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on physics-problem.pdf (1 page, 30464 bytes).
+amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/homebrew/Cellar/texlive/20240
+312_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/homebrew
+/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi
+12.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/homebrew/Cellar/texlive/20
+240312_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/homebr
+ew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb>
+Output written on physics-problem.pdf (2 pages, 92517 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
- 2 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
