@@ -28,18 +28,43 @@
 Om is a skydiving trainhopper. A freighter steam locomotive is going downhill on a straight track that makes an angle of elevation with the ground of $\theta=37.13\degree$. Unfortunately, the train's engine has failed and the wheels are sliding down the frictionless tracks. Luckily, the train has a backup jet propulsion engine. The horizontal distance the hill comprises is 300 meters.
 
 \section{How fast is Om dying?}
-[riley insert yap]
+
+Om falls from 500 meters above and 300 meters from the mountain, which rises at an incline of 37.13\degree. The force of gravity on Om is 620N. The steam engine failed at the summit of the mountain, but luckily they had jet propulsion engines at the back which allowed the train to continue. The train weighs 550,000 kg. \textbf{Solve for the amount of time it takes for Om to reach the base of the mountain.}
+
 
 \section{How fast is that engine going?}
 Given the mass of the train is $m=550000$ kg and the time $t$ you found from the previous problem. You are finding the Work that the jet propulsion engine needs to do on the train for it to reach the bottom of the hill just in time to catch Om at the front of the engine.
 
-\section{Part III}
+\section{How much faster does the train go after Om dies?}
 
 \pagebreak
 
 \section{Answer}
 
 \subsection{How fast is Om dying?}
+\begin{enumerate}
+    \item Find Om's mass. \\
+    \(F = ma\)
+    \(m =\frac{F}{a}\)
+    \(\frac{620N}{9.8}=63.26kg\)
+
+    \item Find the height of Om above the Earth. \\
+    \(90-37.13\degree = 52.87\degree\) \\
+    \(300m \cdot \tan 52.87\degree = 396.24m\) \\
+    \(396.24m + 500m = 896.24m\)
+
+    \item Find the final velocity of Om. \\
+    \(mgh = \frac{1}{2}mv^2\) \\
+    \(63.26(9.8)(896.24) = \frac{1}{2}63.26v^2\) \\
+    \(555622.20 = 31.63v^2\) \\
+    \(17566.30 = v^2\) \\
+    \(132.54\frac{m}{s}^2 = v\)
+
+    \item Find the time it takes Om to reach the base of the mountain. \\
+    \(t = \frac{d}{v}\) \\
+    \(t = \frac{896.24}{132.54}\) \\
+    \(t = 6.76s\)
+\end{enumerate}
 
 \subsection{How fast is that engine going?}
 
@@ -78,8 +103,9 @@ Given the mass of the train is $m=550000$ kg and the time $t$ you found from the
     v_f=\frac{2x_f}{t} \\
     \Longrightarrow W=m(\frac{1}{2}\biggr(\frac{2x_f}{t}\biggr)^2-gh) \\
     \Longrightarrow W=m(2\biggr(\frac{x_f}{t}\biggr)^2-gh)
-    \Longrightarrow W=(550000\text{kg})(2\biggr(\frac{376.285\text{m}}{t}\biggr)^2-\biggr(9.8\frac{\text{m}}{\text{s}^2}\biggr)(227.135\text{m}))
+    \Longrightarrow W=(550000\text{kg})(2\biggr(\frac{376.285\text{m}}{6.76\text{s}}\biggr)^2-\biggr(9.8\frac{\text{m}}{\text{s}^2}\biggr)(227.135\text{m})) \\
+    \Longrightarrow 2184004499 \text{J}
 \end{align*}
-Riley add the time and do the solving
+\subsection{How fast is that engine going?}
 
 \end{document}
