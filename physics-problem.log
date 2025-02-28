@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  27 FEB 2025 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.10.29)  28 FEB 2025 07:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -829,24 +829,17 @@ ap/pdftex.map}] [2] [3] (./physics-problem.aux)
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `physics-problem.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `physics-problem.out':
-(rerunfilecheck)             Before: C765D8086C319FB6F114DB0EF985395F;923
-(rerunfilecheck)             After:  1641095B191D82827F6E2FA605274EB3;1369.
+Package rerunfilecheck Info: File `physics-problem.out' has not changed.
+(rerunfilecheck)             Checksum: 1641095B191D82827F6E2FA605274EB3;1369.
  ) 
 Here is how much of TeX's memory you used:
- 20866 strings out of 474116
- 391342 string characters out of 5732612
+ 20867 strings out of 474116
+ 391358 string characters out of 5732612
  1940187 words of memory out of 5000000
- 42871 multiletter control sequences out of 15000+600000
+ 42872 multiletter control sequences out of 15000+600000
  566556 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,12n,107p,459b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,12n,107p,474b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmex10.pfb></opt/homebrew/Cellar/texlive/20240
@@ -858,10 +851,10 @@ blic/amsfonts/cm/cmr10.pfb></opt/homebrew/Cellar/texlive/20240312_3/share/texmf
 240312_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></opt/homebr
 ew/Cellar/texlive/20240312_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 sy10.pfb>
-Output written on physics-problem.pdf (3 pages, 99740 bytes).
+Output written on physics-problem.pdf (3 pages, 99856 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
- 75 compressed objects within 1 object stream
+ 100 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
